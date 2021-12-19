@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/layout_launch_screen.xml.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativecodepush_package.json.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/raw/node_modules_reactnativecodepush_package.json"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_splash_image.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/drawable-xxhdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable_splashscreen.xml.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-mdpi_splash_image.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/drawable-mdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-hdpi_splash_image.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/drawable-hdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/drawable-xhdpi_splash_image.png.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/res/drawable-xhdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/Users/sv/Documents/WorkPlace/project/sadadream/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    }
+]

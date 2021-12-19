@@ -1,0 +1,9 @@
+com/sadadream/MainApplication.java
+ com.styledream4u.MainApplication
+ com.styledream4u.MainApplication$1
+com/sadadream/MainActivity.java
+ com.styledream4u.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/styledream4u/BuildConfig.java
+ com.styledream4u.BuildConfig

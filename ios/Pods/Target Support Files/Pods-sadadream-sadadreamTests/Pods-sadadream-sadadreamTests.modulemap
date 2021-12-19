@@ -1,0 +1,6 @@
+module Pods_sadadream_sadadreamTests {
+  umbrella header "Pods-sadadream-sadadreamTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

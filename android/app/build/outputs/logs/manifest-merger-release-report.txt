@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [hermes-release.aar] /Users/sv/.gradle/caches/transforms-2/files-2.1/386995f328808cafaf322bfd6c125d7b/jetified-hermes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-splash-screen] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-community_masked-view] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-exit-app] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-exit-app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-version-check] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/13803a371088da280b3f0e1938e5be49/jetified-react-native-0.64.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/b96747d37a224cfd1aeabd65ded3d921/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/cf638c317875860655e39430c085e19c/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/69cbd52796e2758b39ac33850c385b24/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/0e470d19ddf2115edcc92798e0448780/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/26c568d03abb79874ad70b3976c0739b/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/22a784ad1c1580485ca76c7ce561e2d1/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e898ac1ad0795364b8e1f9f423bde405/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e463e9adbbdc3b4350ca4c34111a59fd/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/4a6e6dccfe6987f353e6fea46451002e/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/c6251f6b410b452e0c3fd15068d29902/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e4e6a56409aa3e414453f9f22d08b0ad/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/10627a3d396dfa4e2125e19745b44ea6/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/f6ad38dd8e264c8eb05123bf6b41c7c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/856d6b7546d7a43faf534bd3aab3e681/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/68c415fb8490c7bf0f53d6397e382725/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/b081a07e98ca678fce28b7f1a1defd05/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/711e9abced4091acf15990e4ee010d09/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/0ca7c9f9d480af89e353e754c141558b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a36c06a8ff2511c26c874fe75f1d5c0b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/caabd69fdc10861e63ce773a41dc3db4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a9c120d0194c20341bbb72313e44227e/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/82bd3ec8741b8e85f8216be4b9235f91/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/9a2c17366cc7120146160a7d8d03f741/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/75b5940ad56f7596fe594adf7847e749/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/ba24e603aa81e1ab2f610c188a2a2ed7/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/sv/.gradle/caches/transforms-2/files-2.1/267583c01b07fa572c386ade1cd344a0/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d53310793ebfc06f30641f0fe2c506c8/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/1a81e98fa865557ca2dbced7e64cc903/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/3bbaabe846d39fe3f3ee07440fda0535/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a1eeea0cbcb12f4fbe0ff0bec9ec9178/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/74a081f18ee9ab462b8dbfbe13b1420c/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/953bc0e8cc31a14832e4c1d9f5c5c911/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/bc2f8dad7897cde03bfe2d21e2535823/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/1e2e1243dfcdc61fa4bd0b4db2584b4e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/47121e6c69a8acbf3844fc9d2f70bcc9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/eaca6ee22de87f02124b71b981659b78/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d72f614970b62eb1195fbe30a9d952ec/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [:react-native-splash-screen] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/13803a371088da280b3f0e1938e5be49/jetified-react-native-0.64.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/13803a371088da280b3f0e1938e5be49/jetified-react-native-0.64.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/cf638c317875860655e39430c085e19c/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/cf638c317875860655e39430c085e19c/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e4e6a56409aa3e414453f9f22d08b0ad/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e4e6a56409aa3e414453f9f22d08b0ad/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/sv/.gradle/caches/transforms-2/files-2.1/267583c01b07fa572c386ade1cd344a0/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/sv/.gradle/caches/transforms-2/files-2.1/267583c01b07fa572c386ade1cd344a0/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d53310793ebfc06f30641f0fe2c506c8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d53310793ebfc06f30641f0fe2c506c8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/sv/.gradle/caches/transforms-2/files-2.1/267583c01b07fa572c386ade1cd344a0/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:13:7-42
+	android:name
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.styledream4u.MainActivity
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-release.aar] /Users/sv/.gradle/caches/transforms-2/files-2.1/386995f328808cafaf322bfd6c125d7b/jetified-hermes-release/AndroidManifest.xml:5:5-44
+MERGED from [hermes-release.aar] /Users/sv/.gradle/caches/transforms-2/files-2.1/386995f328808cafaf322bfd6c125d7b/jetified-hermes-release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-exit-app] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-exit-app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-exit-app] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-exit-app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-check] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-check] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/13803a371088da280b3f0e1938e5be49/jetified-react-native-0.64.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/13803a371088da280b3f0e1938e5be49/jetified-react-native-0.64.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/b96747d37a224cfd1aeabd65ded3d921/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/b96747d37a224cfd1aeabd65ded3d921/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/cf638c317875860655e39430c085e19c/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/cf638c317875860655e39430c085e19c/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/69cbd52796e2758b39ac33850c385b24/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/69cbd52796e2758b39ac33850c385b24/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/0e470d19ddf2115edcc92798e0448780/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/0e470d19ddf2115edcc92798e0448780/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/26c568d03abb79874ad70b3976c0739b/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/26c568d03abb79874ad70b3976c0739b/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/22a784ad1c1580485ca76c7ce561e2d1/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/22a784ad1c1580485ca76c7ce561e2d1/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e898ac1ad0795364b8e1f9f423bde405/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e898ac1ad0795364b8e1f9f423bde405/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e463e9adbbdc3b4350ca4c34111a59fd/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e463e9adbbdc3b4350ca4c34111a59fd/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/4a6e6dccfe6987f353e6fea46451002e/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/4a6e6dccfe6987f353e6fea46451002e/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/c6251f6b410b452e0c3fd15068d29902/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/c6251f6b410b452e0c3fd15068d29902/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e4e6a56409aa3e414453f9f22d08b0ad/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/e4e6a56409aa3e414453f9f22d08b0ad/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/10627a3d396dfa4e2125e19745b44ea6/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/10627a3d396dfa4e2125e19745b44ea6/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/f6ad38dd8e264c8eb05123bf6b41c7c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/f6ad38dd8e264c8eb05123bf6b41c7c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/856d6b7546d7a43faf534bd3aab3e681/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/856d6b7546d7a43faf534bd3aab3e681/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/68c415fb8490c7bf0f53d6397e382725/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/68c415fb8490c7bf0f53d6397e382725/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/b081a07e98ca678fce28b7f1a1defd05/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/sv/.gradle/caches/transforms-2/files-2.1/b081a07e98ca678fce28b7f1a1defd05/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/711e9abced4091acf15990e4ee010d09/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/711e9abced4091acf15990e4ee010d09/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/0ca7c9f9d480af89e353e754c141558b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/0ca7c9f9d480af89e353e754c141558b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a36c06a8ff2511c26c874fe75f1d5c0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a36c06a8ff2511c26c874fe75f1d5c0b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/caabd69fdc10861e63ce773a41dc3db4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/caabd69fdc10861e63ce773a41dc3db4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a9c120d0194c20341bbb72313e44227e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a9c120d0194c20341bbb72313e44227e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/82bd3ec8741b8e85f8216be4b9235f91/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/82bd3ec8741b8e85f8216be4b9235f91/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/9a2c17366cc7120146160a7d8d03f741/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/9a2c17366cc7120146160a7d8d03f741/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/75b5940ad56f7596fe594adf7847e749/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/75b5940ad56f7596fe594adf7847e749/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/ba24e603aa81e1ab2f610c188a2a2ed7/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/ba24e603aa81e1ab2f610c188a2a2ed7/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sv/.gradle/caches/transforms-2/files-2.1/267583c01b07fa572c386ade1cd344a0/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sv/.gradle/caches/transforms-2/files-2.1/267583c01b07fa572c386ade1cd344a0/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d53310793ebfc06f30641f0fe2c506c8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d53310793ebfc06f30641f0fe2c506c8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/1a81e98fa865557ca2dbced7e64cc903/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/1a81e98fa865557ca2dbced7e64cc903/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/3bbaabe846d39fe3f3ee07440fda0535/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/3bbaabe846d39fe3f3ee07440fda0535/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a1eeea0cbcb12f4fbe0ff0bec9ec9178/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/a1eeea0cbcb12f4fbe0ff0bec9ec9178/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/74a081f18ee9ab462b8dbfbe13b1420c/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/74a081f18ee9ab462b8dbfbe13b1420c/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/953bc0e8cc31a14832e4c1d9f5c5c911/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/953bc0e8cc31a14832e4c1d9f5c5c911/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/bc2f8dad7897cde03bfe2d21e2535823/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/bc2f8dad7897cde03bfe2d21e2535823/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/1e2e1243dfcdc61fa4bd0b4db2584b4e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/1e2e1243dfcdc61fa4bd0b4db2584b4e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/47121e6c69a8acbf3844fc9d2f70bcc9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/47121e6c69a8acbf3844fc9d2f70bcc9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/eaca6ee22de87f02124b71b981659b78/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/eaca6ee22de87f02124b71b981659b78/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d72f614970b62eb1195fbe30a9d952ec/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sv/.gradle/caches/transforms-2/files-2.1/d72f614970b62eb1195fbe30a9d952ec/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sv/Documents/WorkPlace/project/sadadream/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from [:react-native-code-push] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:14:19-83
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/sv/Documents/WorkPlace/project/sadadream/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67

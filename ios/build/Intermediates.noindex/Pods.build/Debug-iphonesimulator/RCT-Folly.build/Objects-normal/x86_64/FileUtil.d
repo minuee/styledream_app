@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/RCT-Folly/folly/FileUtil.cpp \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Target\ Support\ Files/RCT-Folly/RCT-Folly-prefix.pch \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/FileUtil.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/Portability.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/CPortability.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Config.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/Range.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/hash/SpookyHashV2.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/lang/Exception.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/CppAttributes.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Constexpr.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/String.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/CpuId.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/Likely.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/Traits.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/detail/RangeCommon.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/detail/RangeSse42.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/ScopeGuard.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/Preprocessor.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/Utility.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/lang/UncaughtExceptions.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/net/NetworkSocket.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/net/detail/SocketFileDescriptorMap.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Windows.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Fcntl.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/SysUio.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/IOVec.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/SysTypes.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Unistd.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/detail/FileUtilDetail.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/net/NetOps.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Sockets.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/Stdlib.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/SysFile.h \
+  /Users/sv/Documents/WorkPlace/project/sadadream/ios/Pods/Headers/Private/RCT-Folly/folly/portability/SysStat.h

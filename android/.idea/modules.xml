@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="sadadream/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1940746090/react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/-1940746090/react-native-code-push.iml" group="sadadream/react-native-code-push" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-769055897/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-769055897/react-native-community_masked-view.iml" group="sadadream/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1045629813/react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1045629813/react-native-community_netinfo.iml" group="sadadream/react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1928862312/react-native-exit-app.iml" filepath="$PROJECT_DIR$/.idea/modules/1928862312/react-native-exit-app.iml" group="sadadream/react-native-exit-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-827025584/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-827025584/react-native-gesture-handler.iml" group="sadadream/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/448732089/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/448732089/react-native-safe-area-context.iml" group="sadadream/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1419895023/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1419895023/react-native-screens.iml" group="sadadream/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729243036/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/729243036/react-native-splash-screen.iml" group="sadadream/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/52511366/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/52511366/react-native-vector-icons.iml" group="sadadream/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2134014851/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/2134014851/react-native-webview.iml" group="sadadream/react-native-webview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sadadream.iml" filepath="$PROJECT_DIR$/.idea/modules/sadadream.iml" group="sadadream" />
+    </modules>
+  </component>
+</project>
